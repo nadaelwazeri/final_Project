@@ -6,6 +6,19 @@ https://templatemo.com/tm-581-kind-heart-charity
 
 */
 
+.item-details{
+  width: 700px;
+  height: 800px;
+  position: fixed;
+  z-index: 999999999999;
+  left: 28%;
+  top: 0px;
+  background-color: rgb(255, 255, 255);
+box-shadow: rgba(0, 0, 0, 0.50) 1px 3px 8px ;
+border: 1px solid #f6f6f6;
+border-radius: 10px;
+padding: 20px;
+}
 
 
 @font-face {
